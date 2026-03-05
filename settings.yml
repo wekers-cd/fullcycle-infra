@@ -1,0 +1,3 @@
+aws-region: "sa-east-1"
+terraform-version: "1.14.6"
+account-id: "982166831573"
